@@ -1,7 +1,7 @@
 ## Hi there, My Name is Sarawut Phuangsumalee 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400" style="border-radius: 200px;"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
 ## Languages and Tools 💻🛠⚙
