@@ -13,6 +13,6 @@
 ## Languages and Tools 💻🛠⚙
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,bun,elysia,react,py,mongodb,mysql,sqlite,postman," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,bun,elysia,react,py,mongodb,mysql,sqlite,postman,git,docker,figma" />
   </a>
 </div>
